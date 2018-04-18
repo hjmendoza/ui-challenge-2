@@ -1,0 +1,37 @@
+*{
+  font-family: 'Nanum Gothic', sans-serif;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+h1{
+  text-align: center;
+  border-bottom: solid;
+}
+
+#sprite {
+	background: url('./imgs/form-elements-sprite.png') no-repeat;
+	width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+#home {
+    width: 100px;
+    height: 100px;
+    background: url('./imgs/form-elements-sprite.png') 100 100;
+}
+/* input{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.textinput, .validatedtext, .selectbox, .checkbox1, .checkbox2, .radio1, .radio2, .submit1, .submit2{
+  background-image: url('https://raw.githubusercontent.com/codefellows-seattle-301n10/ui-challenge-2/master/sprites/form-elements-sprite.png');
+  background-repeat: no-repeat;
+}
+
+.checkbox1 {
+	background: url('https://raw.githubusercontent.com/codefellows-seattle-301n10/ui-challenge-2/master/sprites/form-elements-sprite.png') no-repeat 0 0;
+	width: 100px;
+	height: 100px;
+} */
